@@ -46,7 +46,7 @@
     },
     {
       "name": "ESPAsyncDNSServer",
-      "version": "https://github.com/khoih-prog/ESPAsyncDNSServer",
+      "version": "https://github.com/bhudgens/ESPAsyncDNSServer",
       "platforms": ["espressif8266", "espressif32"]
     },
     {
